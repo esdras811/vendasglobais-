@@ -18,4 +18,4 @@ Painel analítico que apresenta o desempenho de vendas em diferentes países, ca
 Abra o arquivo `.pbix`
 
 ## 🖼 Captura de Tela
-![Dashboard Global]()
+![Dashboard Global](Captura de tela 2025-07-03 131835.png)
